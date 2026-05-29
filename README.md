@@ -22,10 +22,10 @@ Bu kart, RC sinyallerini ESP32 üzerinden işleyebilmek için optimize edilmişt
 
 ## 🖼️ PCB Görselleri
 ### Üst Katman
-![PCB Top View](./images/pcb_top.png)
+![PCB Top View](./pcb_top.png)
 
 ### Alt Katman
-![PCB Bottom View](./images/pcb_bottom.png)
+![PCB Bottom View](./pcb_bottom.png)
 
 ## 🚀 Kullanım
 1. KiCad ile açarak şematik ve PCB tasarımını inceleyin.  
