@@ -22,10 +22,10 @@ Bu kart, RC sinyallerini ESP32 üzerinden işleyebilmek için optimize edilmişt
 
 ## 🖼️ PCB Görselleri
 ### Üst Katman
-![PCB Top View](../../images/RC_Receiver_PCB_ESP32-WROOM1.png)
+![PCB Top View](./images/RC_Receiver_PCB_ESP32-WROOM1.png)
 
 ### Alt Katman
-![PCB Bottom View](../../images/RC_Receiver_PCB_ESP32-WROOM2.png)
+![PCB Bottom View](./images/RC_Receiver_PCB_ESP32-WROOM2.png)
 
 ## 🚀 Kullanım
 1. KiCad ile açarak şematik ve PCB tasarımını inceleyin.  
