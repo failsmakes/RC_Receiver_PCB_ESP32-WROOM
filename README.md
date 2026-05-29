@@ -22,7 +22,7 @@ Bu kart, RC sinyallerini ESP32 üzerinden işleyebilmek için optimize edilmişt
 
 ## 🖼️ PCB Görselleri
 ### Üst Katman
-![PCB Top View](./images/pcb_top.png)
+![PCB Top View](../../images/pcb_top.png)
 
 ### Alt Katman
 ![PCB Bottom View](./images/pcb_bottom.png)
